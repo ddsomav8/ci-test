@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/chenyl0283/test1/_apis/build/status/test1?branchName=master)](https://dev.azure.com/chenyl0283/test1/_build/latest?definitionId=1&branchName=master)
 # ci-test
 
 ## Project setup
